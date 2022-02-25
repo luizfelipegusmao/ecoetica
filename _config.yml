@@ -13,7 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+# Site Settings FROM https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
+locale                   : "pt-BR"
+# title                    : "Site Title"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+# description              : "An amazing website."
+# url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : # the subpath of your site, e.g. "/blog"
+# repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+# teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+# masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+
+# Site settings ORIGINAL
+title: iÉtica
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -21,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
