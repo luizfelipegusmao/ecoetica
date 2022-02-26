@@ -1,0 +1,33 @@
+/* ==========================================================================
+   CUSTOM Variables
+   from: _sass/minimal-mistakes/_variables.scss
+   ========================================================================== */
+
+/*
+   Typography
+   ========================================================================== */
+
+/* system typefaces */
+/* $serif: Georgia, Times, serif !default; ### ORIGINAL */
+$serif              : "PT Serif", Georgia, Times, serif;
+/* $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default; */
+/* $monospace: Monaco, Consolas, "Lucida Console", monospace !default; */
+
+/* sans serif typefaces */
+/* $sans-serif-narrow: $sans-serif !default; ### ORIGINAL */
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+/* $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default; */
+
+/* serif typefaces */
+/* $georgia: Georgia, serif !default; */
+/* $times: Times, serif !default; */
+/* $bodoni: "Bodoni MT", serif !default; */
+/* $calisto: "Calisto MT", serif !default; */
+/* $garamond: Garamond, serif !default; */
+
+/* $global-font-family: $sans-serif !default; #### ORIGINAL*/
+$global-font-family : $serif !default;
+/* $header-font-family: $sans-serif !default; ### ORIGINAL */
+$header-font-family : $sans-serif-narrow !default;
+/* $caption-font-family: $serif !default;*/
+
