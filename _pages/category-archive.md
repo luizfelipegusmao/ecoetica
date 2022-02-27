@@ -1,6 +1,6 @@
 ---
 
-title: "Textos por Categoria"
+title: "Postagens por Categoria"
 layout: categories
 permalink: /categories/
 author_profile: true
