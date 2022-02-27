@@ -1,5 +1,5 @@
 ---
-title: "Textos por Palavras-Chave"
+title: "Postagens por Palavras-Chave"
 permalink: /tags/
 layout: tags
 author_profile: true
