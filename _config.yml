@@ -159,14 +159,16 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      classes: wide
+      author_profile: false
    # _textos
   - scope:
-      path: ""
+      path: "_textos"
       type: textos
     values:
       layout: single
-      author_profile: true
+      classes: wide
+      author_profile: false
       share: true
 #      comments: true
 #   _portfolio
