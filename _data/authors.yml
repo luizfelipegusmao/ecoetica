@@ -1,0 +1,28 @@
+# Authors
+
+Editor:
+  name        : "Editor"
+  bio         : "Bio do Editor."
+  avatar      : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pax_cultura.svg/240px-Pax_cultura.svg.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:email"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ietica.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com"
+
+Colaborador:
+  name        : "Colaborador"
+  bio         : "Bio do Colaborador."
+  avatar      : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pax_cultura.svg/240px-Pax_cultura.svg.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:email"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com"
