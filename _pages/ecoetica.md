@@ -3,14 +3,12 @@ title: "EcoEtica"
 layout: simple
 classes: wide
 permalink: /ecoetica/
-date: 2016-04-23T11:48:41-04:00
 author_profile: false
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Wall_street_of_the_tombs_sacred_way_Kerameikos_Athens.jpg
-  caption: "iDEIA ÉTICA"
+  caption: "iDEiA ETiCA"
   overlay_color: "#000"
   overlay_filter: "0.5"
-  caption: "iDEIA ÉTICA"
   actions:
     - label: "Últimas Publicações"
       url: "https://ietica.github.io/posts/"
