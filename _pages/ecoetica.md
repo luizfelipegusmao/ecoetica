@@ -1,6 +1,6 @@
 ---
 title: "EcoEtica"
-layout: simple
+layout: single
 classes: wide
 permalink: /ecoetica/
 author_profile: false
