@@ -9,13 +9,15 @@
 
 /* system typefaces */
 /* $serif: Georgia, Times, serif !default; ### ORIGINAL */
-$serif              : "PT Serif", Georgia, Times, serif !default;
+/* $serif              : "PT Serif", Georgia, Times, serif !default; */
+$serif              : "Noto Serif", Georgia, Times, serif !default;
 /* $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default; */
 /* $monospace: Monaco, Consolas, "Lucida Console", monospace !default; */
 
 /* sans serif typefaces */
 /* $sans-serif-narrow: $sans-serif !default; ### ORIGINAL */
-$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+/* $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default; */
+$sans-serif-narrow  : "Noto Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 /* $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default; */
 
 /* serif typefaces */
