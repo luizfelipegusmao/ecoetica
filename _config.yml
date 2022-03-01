@@ -133,12 +133,16 @@ footer:
 
 # Collections
 collections:
+  collections_dir: textos
   textos:
     output: true
     permalink: /:collection/:path/
   ecoetica:
     output: true
-    permalink: /textos/:path/
+    permalink: /:collection/:path/
+#  collection1:
+#    output: true
+#    permalink: /:name  
 
 # Defaults
 defaults:
