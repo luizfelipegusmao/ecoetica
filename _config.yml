@@ -110,15 +110,12 @@ footer:
 # Collections
 collections:
   collections_dir: textos
-  textos:
-    output: true
-    permalink: /:collection/:path/
   ecoetica:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:name
 #  collection1:
 #    output: true
-#    permalink: /:name  
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
