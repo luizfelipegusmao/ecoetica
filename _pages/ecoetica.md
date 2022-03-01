@@ -5,7 +5,7 @@ layout: collection
 collection: ecoetica
 classes: wide
 entries_layout: grid
-permalink: /ecoetica/
+permalink: /textos/ecoetica/
 author_profile: true
 author: Editor
 header:
