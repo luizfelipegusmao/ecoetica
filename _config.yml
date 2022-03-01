@@ -108,14 +108,14 @@ footer:
       # url: "https://instagram.com/"
 
 # Collections
+collections_dir: textos
 collections:
-  collections_dir: textos
   ecoetica:
     output: true
-    permalink: /:name
+    permalink: /:collection/:path/
 #  collection1:
 #    output: true
-#    permalink: /:collection/:path/
+#    permalink: /:name
 
 # Defaults
 defaults:
