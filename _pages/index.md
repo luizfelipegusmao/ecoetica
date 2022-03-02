@@ -1,14 +1,14 @@
 ---
-title: "Splash Page"
+title: "iDEiA ETiCA"
 layout: splash
-permalink: /home/
+permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Wall_street_of_the_tombs_sacred_way_Kerameikos_Athens.jpg
-  caption: "iDEIA ÉTICA"
+  caption: "iDEiA ETiCA"
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  caption: "iDEIA ÉTICA"
+  overlay_filter: "0.3"
+  caption: "iDEiA ETiCA"
   actions:
     - label: "Últimas Publicações"
       url: "https://ietica.github.io/posts/"
