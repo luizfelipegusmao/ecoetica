@@ -2,17 +2,16 @@
 title: "iDEiA ETiCA"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Wall_street_of_the_tombs_sacred_way_Kerameikos_Athens.jpg
   overlay_color: "#000"
   overlay_filter: "0.3"
   actions:
-    - label: "Sobre a **iDEiA ETiCA**"
+    - label: "Sobre a iDEiA ETiCA"
       url: "https://ietica.github.io/sobre/"
 excerpt: "Um Think Tank sobre Ética"
 intro: 
-  - excerpt: 'Nature as conceived by many ecologists, and expressed philosophically by James Lovelock and others, is not the passive, dead, value-neutral nature of mechanistic science but is akin to the active, "naturing" nature of Spinoza. It is all-inclusive, creative (as natura naturans), infinitely diverse, and alive in the broad sense of Spinozistic so-called panpsychism.</br><i>Arne Næss, selected works</i>'
+  - excerpt: 'Nature as conceived by many ecologists, and expressed philosophically by James Lovelock and others, is not the passive, dead, value-neutral nature of mechanistic science but is akin to the active, "naturing" nature of Spinoza. It is all-inclusive, creative (as <i>natura naturans</i>), infinitely diverse, and alive in the broad sense of Spinozistic so-called panpsychism.<br><small><i>Arne Næss, selected works</i></small>'
 feature_row:
   - image_path: /assets/images/haeckel_calocalanus_400.png
     alt: "Haeckel Calocalanus"
