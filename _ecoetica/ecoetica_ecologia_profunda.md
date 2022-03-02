@@ -1,18 +1,28 @@
 ---
+# Document
 title: "EcoEtica: Ecologia Profunda"
+author: Editor
+excerpt: "A Ecologia Profunda e sua relação com a EcoEtica"
+
+# Display
 layout: single
 classes: wide
 author_profile: true
-author: Editor
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/7/7d/Arne_N%C3%A6ss_-_ny_rute_g%C3%A5r_i_hele_venstre_profil_%28mot_luften%29._1937._Tysfjord%2C_Stetind.jpg
-  caption: "iDEiA ETiCA"
+#  caption: ""
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.4"
   teaser: https://upload.wikimedia.org/wikipedia/commons/7/7d/Arne_N%C3%A6ss_-_ny_rute_g%C3%A5r_i_hele_venstre_profil_%28mot_luften%29._1937._Tysfjord%2C_Stetind.jpg
-excerpt: "A Ecologia Profunda e sua relação com a EcoEtica"
+
+# Meta
+categories:
+  - resenha # ensaio editorial artigo blog
+tags:
+  - ecoetica
+
 # intro: 
-#  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+#  - excerpt: ""
 
 ---
 
