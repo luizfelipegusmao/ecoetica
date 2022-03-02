@@ -30,9 +30,9 @@ logo                     : "https://upload.wikimedia.org/wikipedia/commons/thumb
 title: iDEiA ETiCA
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-twitter_username: username
-github_username: username
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+twitter_username: ideiaetica
+# github_username: username
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -99,7 +99,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/IdeiaEtica"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -108,9 +108,12 @@ footer:
       # url: "https://instagram.com/"
 
 # Collections
-collections_dir: textos
+# collections_dir: textos
 collections:
   ecoetica:
+    output: true
+    permalink: /:collection/:path/
+  artigos:
     output: true
     permalink: /:collection/:path/
 #  collection1:
@@ -138,15 +141,15 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
-   # _textos
-  - scope:
-      path: ""
-      type: textos
-    values:
-      layout: single
-      classes: wide
-      author_profile: false
-      share: true
+#   # _textos
+#  - scope:
+#      path: ""
+#      type: textos
+#    values:
+#      layout: single
+#      classes: wide
+#      author_profile: false
+#      share: true
 
 category_archive:
   type: liquid
