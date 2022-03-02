@@ -5,56 +5,60 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Wall_street_of_the_tombs_sacred_way_Kerameikos_Athens.jpg
-  caption: "iDEiA ETiCA"
   overlay_color: "#000"
   overlay_filter: "0.3"
-  caption: "iDEiA ETiCA"
   actions:
-    - label: "Últimas Publicações"
-      url: "https://ietica.github.io/posts/"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Sobre a **iDEiA ETiCA**"
+      url: "https://ietica.github.io/sobre/"
+excerpt: "Um Think Tank sobre Ética"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Nature as conceived by many ecologists, and expressed philosophically by James Lovelock and others, is not the passive, dead, value-neutral nature of mechanistic science but is akin to the active, "naturing" nature of Spinoza. It is all-inclusive, creative (as natura naturans), infinitely diverse, and alive in the broad sense of Spinozistic so-called panpsychism.</br><i>Arne Næss, selected works</i>'
 feature_row:
   - image_path: /assets/images/haeckel_calocalanus_400.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Haeckel Calocalanus"
+    title: "Blog"
+    excerpt: "Últimas postagens no **Blog**"
+    url: "posts"
+    btn_label: "Blog"
+    btn_class: "btn--primary"
   - image_path: /assets/images/haeckel_euaugaptilus_400.png
-    image_caption: ""
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "Haeckel Euaugaptilus"
+    title: "EcoEtica"
+    excerpt: "Série de resenhas sobre **EcoEtica**"
+    url: "ecoetica"
+    btn_label: "EcoEtica"
     btn_class: "btn--primary"
   - image_path: /assets/images/haeckel_oncaea_400.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/haeckel_sapphirina_400.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "Haeckel Oncaea"
+    title: "Sobre"
+    excerpt: "Sobre a **iDEiA ETiCA**"
+    url: "sobre"
+    btn_label: "Sobre"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/haeckel_euaugaptilus_400.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/haeckel_calocalanus_400.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+#feature_row2:
+#  - image_path: /assets/images/haeckel_sapphirina_400.png
+#    alt: "placeholder image 2"
+#    title: "Placeholder Image Left Aligned"
+#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
+#feature_row3:
+#  - image_path: /assets/images/haeckel_euaugaptilus_400.png
+#    alt: "placeholder image 2"
+#    title: "Placeholder Image Right Aligned"
+#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
+#feature_row4:
+#  - image_path: /assets/images/haeckel_calocalanus_400.png
+#    alt: "placeholder image 2"
+#    title: "Placeholder Image Center Aligned"
+#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
 # https://upload.wikimedia.org/wikipedia/commons/6/65/Laughing_kookaburra_%289115601110%29.jpg
 # https://upload.wikimedia.org/wikipedia/commons/7/75/Blue-winged_kookaburra_arp.jpg
 # https://upload.wikimedia.org/wikipedia/commons/b/bd/Dacelo_novaeguineae%2C_Swanbourne.jpg
