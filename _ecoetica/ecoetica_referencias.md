@@ -1,16 +1,29 @@
 ---
-title: "EcoEtica"
+
+# Document
+title: "EcoEtica: Referências Essenciais"
+author: Editor
+excerpt: "Bibliografia selecionada com referências essenciais em EcoEtica"
+
+# Display
 layout: single
 classes: wide
 author_profile: true
-author: Editor
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Buller%27s_Albatross_1.jpg
-  caption: "iDEiA ETiCA"
+#  caption: ""
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.4"
   teaser: https://upload.wikimedia.org/wikipedia/commons/f/f5/Buller%27s_Albatross_1.jpg
-excerpt: "Referências Essenciais"
+
+# Meta
+categories:
+  - resenha # ensaio editorial artigo blog
+tags:
+  - ecoetica
+
+# intro: 
+#  - excerpt: ""
 
 ---
 
