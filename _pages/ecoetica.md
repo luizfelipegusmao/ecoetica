@@ -6,7 +6,7 @@ collection: ecoetica
 classes: wide
 entries_layout: grid
 permalink: /ecoetica/
-author_profile: true
+author_profile: false
 author: Editor
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Wall_street_of_the_tombs_sacred_way_Kerameikos_Athens.jpg
