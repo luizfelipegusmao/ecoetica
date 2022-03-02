@@ -1,16 +1,26 @@
 ---
+# Document
 title: "EcoEtica: O que é?"
+author: Editor
+excerpt: "A EcoEtica é um campo relativamente recente da Ética que tem contribuído para discussões sobre a relação dos humanos com o ambiente. Mas o que é a EcoEtica e por que ela é relevante?"
+
+# Display
 layout: single
 classes: wide
 author_profile: true
-author: Editor
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/9d/A_sheep_lying_with_its_legs_folded_underneath_its_body_next_to_a_wooden_fence%2C_the_sheep_in_profile_view_MET_DP828330.jpg
-  caption: "iDEiA ETiCA"
+#  caption: ""
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.4"
   teaser: https://upload.wikimedia.org/wikipedia/commons/9/9d/A_sheep_lying_with_its_legs_folded_underneath_its_body_next_to_a_wooden_fence%2C_the_sheep_in_profile_view_MET_DP828330.jpg
-excerpt: "A EcoEtica é um campo relativamente recente da Ética que tem contribuído para discussões sobre a relação dos humanos com o ambiente. Mas o que é a EcoEtica e por que ela é relevante?"
+
+# Meta
+categories:
+  - resenha # ensaio editorial artigo blog
+tags:
+  - ecoetica
+
 # intro: 
 #  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
