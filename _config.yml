@@ -141,16 +141,17 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
-#   # _textos
-#  - scope:
-#      path: ""
-#      type: textos
-#    values:
-#      layout: single
-#      classes: wide
-#      author_profile: false
-#      share: true
-
+   # ecoetica
+  - scope:
+      path: ""
+      type: ecoetica
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      share: false
+      related: true
+      
 category_archive:
   type: liquid
   path: /categories/
