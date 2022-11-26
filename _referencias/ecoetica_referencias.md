@@ -3,12 +3,13 @@
 # Document
 title: "EcoEtica: Referências Essenciais"
 author: Editor
+author_profile: false
 excerpt: "Bibliografia selecionada com referências essenciais em EcoEtica"
 
 # Display
-layout: single
+layout: splash
 classes: wide
-author_profile: true
+
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Buller%27s_Albatross_1.jpg
 #  caption: ""
