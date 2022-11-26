@@ -3,7 +3,7 @@
 title: "EcoEtica"
 layout: categories
 permalink: /categories/
-author_profile: true
+author_profile: false
 excerpt: "Postagens por Categoria"
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Wall_street_of_the_tombs_sacred_way_Kerameikos_Athens.jpg
