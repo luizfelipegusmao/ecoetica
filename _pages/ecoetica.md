@@ -1,7 +1,8 @@
 ---
 
 title: "EcoEtica"
-layout: collection
+# layout: collection
+layout: splash
 collection: ecoetica
 classes: wide
 entries_layout: grid
