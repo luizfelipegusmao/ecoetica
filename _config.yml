@@ -116,6 +116,9 @@ collections:
   artigos:
     output: true
     permalink: /:collection/:path/
+  referencias:
+    output: true
+    permalink: /:collection/:path/
 #  collection1:
 #    output: true
 #    permalink: /:name
@@ -148,10 +151,20 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: true
+      author_profile: false
       share: false
-      related: true
-      
+      related: false
+   # referencias
+  - scope:
+      path: ""
+      type: referencias
+    values:
+      layout: splash
+      classes: wide
+      author_profile: false
+      share: false
+      related: false
+
 category_archive:
   type: liquid
   path: /categories/
