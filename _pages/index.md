@@ -1,5 +1,5 @@
 ---
-title: "EcoEtica"
+title: "ECOETICA"
 layout: splash
 permalink: /
 header:
@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.3"
   actions:
     - label: "Sobre este projeto"
-      url: "https://ecoetoca.github.io/sobre/"
-excerpt: "Um Think Tank sobre EcoEtica"
+      url: "https://ecoetica.github.io/sobre/"
+excerpt: "Um Think Tank sobre Ecoetica"
 intro: 
   - excerpt: 'Nature as conceived by many ecologists, and expressed philosophically by James Lovelock and others, is not the passive, dead, value-neutral nature of mechanistic science but is akin to the active, "naturing" nature of Spinoza. It is all-inclusive, creative (as <i>natura naturans</i>), infinitely diverse, and alive in the broad sense of Spinozistic so-called panpsychism.<br><small><i>Arne Næss, selected works</i></small>'
 feature_row:
