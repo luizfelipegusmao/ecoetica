@@ -1,5 +1,5 @@
 ---
-title: "iDEiA ETiCA"
+title: "EcoEtica"
 layout: splash
 permalink: /
 header:
@@ -7,9 +7,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   actions:
-    - label: "Sobre a iDEiA ETiCA"
-      url: "https://ietica.github.io/sobre/"
-excerpt: "Um Think Tank sobre Ética"
+    - label: "Sobre este projeto"
+      url: "https://ecoetoca.github.io/sobre/"
+excerpt: "Um Think Tank sobre EcoEtica"
 intro: 
   - excerpt: 'Nature as conceived by many ecologists, and expressed philosophically by James Lovelock and others, is not the passive, dead, value-neutral nature of mechanistic science but is akin to the active, "naturing" nature of Spinoza. It is all-inclusive, creative (as <i>natura naturans</i>), infinitely diverse, and alive in the broad sense of Spinozistic so-called panpsychism.<br><small><i>Arne Næss, selected works</i></small>'
 feature_row:
@@ -23,16 +23,16 @@ feature_row:
   - image_path: /assets/images/haeckel_euaugaptilus_400.png
     alt: "Haeckel Euaugaptilus"
     title: "EcoEtica"
-    excerpt: "Série de resenhas sobre **EcoEtica**"
+    excerpt: "O que é **EcoEtica**"
     url: "ecoetica"
     btn_label: "EcoEtica"
     btn_class: "btn--primary"
   - image_path: /assets/images/haeckel_oncaea_400.png
     alt: "Haeckel Oncaea"
-    title: "Sobre"
-    excerpt: "Sobre a **iDEiA ETiCA**"
-    url: "sobre"
-    btn_label: "Sobre"
+    title: "Referências"
+    excerpt: "**Referências** em EcoEtica"
+    url: "referencias"
+    btn_label: "Referências"
     btn_class: "btn--primary"
 #feature_row2:
 #  - image_path: /assets/images/haeckel_sapphirina_400.png
