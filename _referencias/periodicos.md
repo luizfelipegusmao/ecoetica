@@ -11,11 +11,11 @@ layout: splash
 classes: wide
 
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Buller%27s_Albatross_1.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/4/45/Sterna_hirundo_-Common_Tern_07.jpg
 #  caption: ""
   overlay_color: "#000"
   overlay_filter: "0.4"
-  teaser: https://upload.wikimedia.org/wikipedia/commons/f/f5/Buller%27s_Albatross_1.jpg
+  teaser: https://upload.wikimedia.org/wikipedia/commons/4/45/Sterna_hirundo_-Common_Tern_07.jpg
 
 # Meta
 # categories:
