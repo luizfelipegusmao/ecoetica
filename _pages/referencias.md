@@ -2,10 +2,10 @@
 
 title: "EcoEtica"
 layout: collection
-collection: ecoetica
+collection: referencias
 classes: wide
 entries_layout: grid
-permalink: /ecoetica/
+permalink: /referencias/
 author_profile: false
 author: Editor
 header:
