@@ -31,6 +31,7 @@ header:
 # Periódicos  relacionados com temas abordados em ecoetica[^1]
 
 ## Animais
+
 |Periódico|Descrição|
 |---------|---------|
 |Between the Species<br>[https://digitalcommons.calpoly.edu/bts/](https://digitalcommons.calpoly.edu/bts/)|Between the Species is a peer-reviewed electronic journal devoted to the philosophical examination of the relationship between human beings and other animals. While most articles are ethical inquiries, others raise issues involving metaphysics, epistemology and other areas of philosophical investigation. Between the Species is an open access journal: users have the right to read, download, copy, distribute, print, search, or link to the full texts of articles<br>Previously: Ethics & Animals<br>https://digitalcommons.calpoly.edu/ethicsandanimals/|
@@ -41,6 +42,7 @@ header:
 |Biology & Philosophy<br>https://www.springer.com/journal/10539|Biology & Philosophy aims to publish the best original work in philosophy of biology, broadly understood to span conceptual, theoretical, and methodological issues in the biological sciences. It is aimed at a broad readership across the sciences and humanities, and welcomes submissions from authors in these disciplines.|
 
 ## Ecosofia e Ecologia Profunda
+
 |Periódico|Descrição|
 |---------|---------|
 |The Trumpeter<br>[https://trumpeter.athabascau.ca/index.php/trumpet](https://trumpeter.athabascau.ca/index.php/trumpet)|The Trumpeter is an environmental humanities journal dedicated to the development of an ecosophy, or wisdom born of ecological understanding and insight. As such, it serves the deep ecology movement’s commitment to critically explore and analyze environmental concerns in light of ecological developments at every relevant level: metaphysics, science, history, politics. Gaining a deeper understanding involves a comprehensive set of criteria that includes analytical rigour, spiritual insight, ethical integrity, and aesthetic appreciation.|
@@ -48,12 +50,14 @@ header:
 |Earth First! Movement Writings<br>[https://www.environmentandsociety.org/mml/collection/11571](https://www.environmentandsociety.org/mml/collection/11571)|This collection features an expanding archive of journals, pamphlets and other ephemera from the Earth First! Movement and its many offshoots. The environmentalist group Earth First! was founded in 1980 on the idea that every life form and ecosystem has a right to live and flourish regardless of human interests. Shortly after, it began its flagship journal, Earth First! Divergent perspectives within the movement led to new publications such as Wild Earth, ALARM, and Live Wild or Die!, as well as rich ephemera including calls for action, pamphlets, and primers. The collection is compiled by Bron Taylor, who generously donated hard copies of the publications to the Rachel Carson Center. Ephemera is provided courtesy of Bron Taylor. These are available here as full-text searchable PDFs.<br>See also: [https://ecocentricalliance.org/wild-earth.html](https://ecocentricalliance.org/wild-earth.html)|
 
 ## Sustentabilidade
+
 |Periódico|Descrição|
 |---|---|
 |The Journal of Population and Sustainability<br>https://www.whpress.co.uk/JPS.html|The Journal of Population and Sustainability (JP&S) is the only interdisciplinary journal exploring all aspects of the relationship between human populations and environmental sustainability. hile encompassing the relationship between human demographic dynamics and environmental change, the journal's central concern is with the population–consumption–technology–environment nexus (PCTEN) more broadly. The JP&S is therefore interested in the exploration of how the absolute growth and spatial expansion of human populations, including the growth of populations of human ‘stuff’ (i.e., buildings, consumer goods, vehicles, crops, domesticated animals, etc.) are related to the core characteristics of the Anthropocene: the persistent and extensive human impact on different terrains, geophysical systems, ecosystems, and populations of other species. owever, the JP&S also considers the complex and uneven distribution of environmental impacts amongst human population groups. We therefore particularly welcome papers concerned with understanding how population dynamics and environmental change relate to inequalities of welfare, economic and political power, and access to technology. By the same token, papers considering the interactive influence of demographic, technological, social, political, cultural and behavioural factors on environmental impact and sustainability are also encouraged. Moreover, the journal also aims to be a forum for the discussion of conceptual, normative and ethical issues surrounding the idea of sustainability and human numbers.|
 |Sustainability<br>[https://www.mdpi.com/journal/sustainability](https://www.mdpi.com/journal/sustainability)|Sustainability is an international, cross-disciplinary, scholarly, peer-reviewed and open access journal of environmental, cultural, economic, and social sustainability of human beings.|
 
 ## Meio Ambiente e outros
+
 |Periódico|Descrição|
 |---|---|
 |Ethics & the Environment<br>https://muse.jhu.edu/journal/57|Ethics & the Environment is an interdisciplinary forum for theoretical and practical articles, discussions, reviews, and book reviews in the broad area encompassed by environmental ethics. Topics include conceptual approaches in ethical theory and ecological philosophy, such as deep ecology and ecological feminism as they pertain to such environmental issues as environmental education and management, ecological economies, and ecosystem health.<br>Also here: https://www.jstor.org/journal/ethicsenviro <br> https://iupress.org/journals/eande/|
