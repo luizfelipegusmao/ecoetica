@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categorias"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categorias"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+  - title: "EcoEtica"
+    url: /ecoetica/
+  - title: "Recursos"
+    url: /recursos/
   - title: "Sobre"
     url: /sobre/
