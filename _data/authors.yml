@@ -3,7 +3,7 @@
 Editor:
   name        : "Editor"
   bio         : "Bio do Editor."
-  avatar      : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pax_cultura.svg/240px-Pax_cultura.svg.png"
+  avatar      : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -18,7 +18,7 @@ Editor:
 Colaborador:
   name        : "Colaborador"
   bio         : "Bio do Colaborador."
-  avatar      : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pax_cultura.svg/240px-Pax_cultura.svg.png"
+  avatar      : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
