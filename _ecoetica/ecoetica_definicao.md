@@ -27,9 +27,10 @@ tags:
 ---
 
 > "human thought and conduct oriented to what is right or wrong, beneficial or destructive for the total system 'Homo sapiens and nature'"[^1]
-***
+
+
 > "Applied ethical issues with a significant environmental connection"[^2]
-***
+
 
 
 [^1]:Kinne, O. (1997). Ethics and eco-ethics. Marine Ecology Progress Series, 153, 1-3. [https://www.int-res.com/abstracts/meps/v153/editorial/](https://www.int-res.com/abstracts/meps/v153/editorial/)
