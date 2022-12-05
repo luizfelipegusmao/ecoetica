@@ -29,10 +29,10 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/haeckel_oncaea_400.png
     alt: "Haeckel Oncaea"
-    title: "Referências"
-    excerpt: "**Referências** em EcoEtica"
-    url: "referencias"
-    btn_label: "Referências"
+    title: "Recursos"
+    excerpt: "**Recursos** em EcoEtica"
+    url: "recursos"
+    btn_label: "Recursos"
     btn_class: "btn--primary"
 #feature_row2:
 #  - image_path: /assets/images/haeckel_sapphirina_400.png
