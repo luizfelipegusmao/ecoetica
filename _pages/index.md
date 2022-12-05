@@ -13,12 +13,19 @@ excerpt: "Um Think Tank sobre Ecoetica"
 intro: 
   - excerpt: 'Nature as conceived by many ecologists, and expressed philosophically by James Lovelock and others, is not the passive, dead, value-neutral nature of mechanistic science but is akin to the active, "naturing" nature of Spinoza. It is all-inclusive, creative (as <i>natura naturans</i>), infinitely diverse, and alive in the broad sense of Spinozistic so-called panpsychism.<br><small><i>Arne Næss, selected works</i></small>'
 feature_row:
+#  - image_path: /assets/images/haeckel_calocalanus_400.png
+#    alt: "Haeckel Calocalanus"
+#    title: "Blog"
+#    excerpt: "Últimas postagens no **Blog**"
+#    url: "posts"
+#    btn_label: "Blog"
+#    btn_class: "btn--primary"
   - image_path: /assets/images/haeckel_calocalanus_400.png
     alt: "Haeckel Calocalanus"
-    title: "Blog"
-    excerpt: "Últimas postagens no **Blog**"
-    url: "posts"
-    btn_label: "Blog"
+    title: "Sobre"
+    excerpt: "**Sobre este projeto**"
+    url: "sobre"
+    btn_label: "Sobre"
     btn_class: "btn--primary"
   - image_path: /assets/images/haeckel_euaugaptilus_400.png
     alt: "Haeckel Euaugaptilus"
