@@ -1,8 +1,8 @@
 ---
 # Document
-title: "EcoEtica: O que é?"
+title: "O que é EcoEtica?"
 author: Editor
-excerpt: "A EcoEtica é um campo relativamente recente da Ética que tem contribuído para discussões sobre a relação dos humanos com o ambiente. Mas o que é a EcoEtica e por que ela é relevante?"
+excerpt: ""
 
 # Display
 layout: single
@@ -26,10 +26,11 @@ tags:
 
 ---
 
+> "human thought and conduct oriented to what is right or wrong, beneficial or destructive for the total system 'Homo sapiens and nature'"[^1]
+***
+> "Applied ethical issues with a significant environmental connection"[^2]
+***
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
-
+[^1]:Kinne, O. (1997). Ethics and eco-ethics. Marine Ecology Progress Series, 153, 1-3. [https://www.int-res.com/abstracts/meps/v153/editorial/](https://www.int-res.com/abstracts/meps/v153/editorial/)
+[^2]:Ehrlich, P. R. (2009). Ecoethics: Now central to all ethics. Journal of bioethical inquiry, 6(4), 417-436. DOI: [10.1007/s11673-009-9197-7](https://sci-hub.se/10.1007/s11673-009-9197-7)
