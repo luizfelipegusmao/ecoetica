@@ -1,6 +1,6 @@
 ---
 
-title: "iDEiA ÉTiCA"
+title: "EcoEtica"
 permalink: /tags/
 layout: tags
 author_profile: true
