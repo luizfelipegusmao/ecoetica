@@ -1,13 +1,13 @@
 ---
 # Document
 title: "Ecologia Profunda"
-author: Editor
+# author: Editor
 excerpt: ""
 
 # Display
 layout: single
 classes: wide
-author_profile: true
+# author_profile: true
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/7/7d/Arne_N%C3%A6ss_-_ny_rute_g%C3%A5r_i_hele_venstre_profil_%28mot_luften%29._1937._Tysfjord%2C_Stetind.jpg
 #  caption: ""
@@ -16,10 +16,10 @@ header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/7/7d/Arne_N%C3%A6ss_-_ny_rute_g%C3%A5r_i_hele_venstre_profil_%28mot_luften%29._1937._Tysfjord%2C_Stetind.jpg
 
 # Meta
-categories:
-  - resenha # ensaio editorial artigo blog
-tags:
-  - ecoetica
+#categories:
+#  - resenha # ensaio editorial artigo blog
+#tags:
+#  - ecoetica
 
 # intro: 
 #  - excerpt: ""
