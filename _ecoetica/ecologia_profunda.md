@@ -5,7 +5,7 @@ title: "Ecologia Profunda"
 excerpt: ""
 
 # Display
-layout: single
+layout: splash
 classes: wide
 # author_profile: true
 header:
