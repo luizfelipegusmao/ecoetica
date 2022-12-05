@@ -116,7 +116,7 @@ collections:
   artigos:
     output: true
     permalink: /:collection/:path/
-  referencias:
+  recursos:
     output: true
     permalink: /:collection/:path/
 #  collection1:
@@ -155,10 +155,10 @@ defaults:
       author_profile: false
       share: false
       related: false
-   # referencias
+   # recursos
   - scope:
       path: ""
-      type: referencias
+      type: recursos
     values:
       layout: splash
       classes: wide
