@@ -5,7 +5,7 @@ title: "O que é EcoEtica?"
 excerpt: ""
 
 # Display
-layout: single
+layout: splash
 classes: wide
 # author_profile: true
 header:
