@@ -9,20 +9,11 @@ layout: splash
 classes: wide
 # author_profile: true
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/7/7d/Arne_N%C3%A6ss_-_ny_rute_g%C3%A5r_i_hele_venstre_profil_%28mot_luften%29._1937._Tysfjord%2C_Stetind.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Seagull_-_Larus_dominicanus_vetula_-_%28Kelp_Gull%29.jpg/1280px-Seagull_-_Larus_dominicanus_vetula_-_%28Kelp_Gull%29.jpg
 #  caption: ""
   overlay_color: "#000"
   overlay_filter: "0.4"
-  teaser: https://upload.wikimedia.org/wikipedia/commons/7/7d/Arne_N%C3%A6ss_-_ny_rute_g%C3%A5r_i_hele_venstre_profil_%28mot_luften%29._1937._Tysfjord%2C_Stetind.jpg
-
-# Meta
-#categories:
-#  - resenha # ensaio editorial artigo blog
-#tags:
-#  - ecoetica
-
-# intro: 
-#  - excerpt: ""
+  teaser: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Seagull_-_Larus_dominicanus_vetula_-_%28Kelp_Gull%29.jpg/1280px-Seagull_-_Larus_dominicanus_vetula_-_%28Kelp_Gull%29.jpg
 
 ---
 
@@ -40,7 +31,7 @@ Arne Næss criou o termo **Ecologia Profunda** em um artigo de 1973.[^1]
 
 > "*A ecologia profunda está emergindo como uma forma de desenvolver um novo equilíbrio e harmonia entre indivíduos, comunidades e toda a Natureza. Pode potencialmente satisfazer nossos anseios mais profundos: fé e confiança em nossas intuições mais básicas; coragem para agir diretamente; confiança alegre para dançar com as harmonias sensuais descobertas por meio de relações espontâneas e lúdicas com os ritmos de nossos corpos, os ritmos da água corrente, mudanças no clima e nas estações e os processos gerais da vida na Terra.*"[^2]
 
-> "*Warwick Fox, um filósofo australiano, expressou sucintamente a intuição central da ecologia profunda: “**É a ideia de que não podemos fazer nenhuma divisão ontológica firme no campo da existência: Que não há bifurcação na realidade entre o humano e o não- reinos humanos... na medida em que percebemos limites, ficamos aquém da consciência ecológica profunda[^7].**"*" [^2]
+> *"Warwick Fox, um filósofo australiano, expressou sucintamente a intuição central da ecologia profunda: **É a ideia de que não podemos fazer nenhuma divisão ontológica firme no campo da existência: Que não há bifurcação na realidade entre o humano e o não- reinos humanos... na medida em que percebemos limites, ficamos aquém da consciência ecológica profunda[^7].**"* [^2]
 
 > "*A ecologia profunda é um processo de questionamento cada vez mais profundo de nós mesmos, dos pressupostos da visão de mundo dominante em nossa cultura e do significado e da verdade de nossa realidade. Não podemos mudar a consciência apenas ouvindo os outros, devemos nos envolver. Devemos agir diretamente.*"[^2]
 
@@ -86,5 +77,6 @@ De acordo com David Foreman, co-fundador do movimento [Earth First!](https://web
 [^7]:Warwick Fox, "Deep Ecology: A New Philosophy of Our Time?" The Ecologist, v. 14, 5-6, 1984, pp. 194-200. Arnie Naess replies, "Intuition, Intrinsic Value and Deep Ecology," The Ecologist, v. 14, 5-6, 1984, pp. 201-204.
 
 Baseado em [^fonte]:
+
 [^fonte]:http://envirolink.org/enviroethics/deepindex.html
 
