@@ -34,7 +34,7 @@ feature_row:
     url: "ecoetica"
     btn_label: "EcoEtica"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Extinctbirds00Roth_0303.jpg
+  - image_path: /assets/images/Extinctbirds00Roth_0307.jpg
     alt: ""
     title: "Recursos"
     excerpt: "**Recursos** em EcoEtica"
