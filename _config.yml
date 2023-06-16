@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 # Site Settings FROM https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 locale                   : "pt-BR"
-title_separator          : "-"
+# title_separator          : "-"
 # subtitle                 : # site tagline that appears below site title in masthead
 name                     : "EcoEtica"
 # description              : "Um ThinkTank sobre EcoEtica"
