@@ -25,10 +25,11 @@ name                     : "EcoEtica"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pax_cultura.svg/240px-Pax_cultura.svg.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 logo                     : "assets/images/ecoetica_logo_h_75.png"
-masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
+# masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           :  " "
 
 # Site settings ORIGINAL
-title: EcoEtica
+# title: EcoEtica
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: eco_etica
