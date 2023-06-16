@@ -1,15 +1,24 @@
 ---
 
-title: "EcoEtica"
+# Document
+title: "Sobre o projeto EcoEtica"
 permalink: /sobre/
-layout: splash
-author_profile: false
+# author: Editor
 excerpt: "Sobre o projeto EcoEtica"
+
+# Display
+layout: splash
+classes: wide
+# author_profile: true
 header:
-#  overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Wall_street_of_the_tombs_sacred_way_Kerameikos_Athens.jpg
-#  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
-  caption: "EcoEtica"
+  overlay_image: /assets/images/ecoetica_logo_250.png
+#  caption: ""
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  teaser: /assets/images/ecoetica_logo_250.png
 
 ---
 
 # Sobre o projeto EcoEtica
+
+![EcoEtica logo](/assets/images/ecoetica_logo_250.png "EcoEtica")
